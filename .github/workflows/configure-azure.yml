@@ -1,4 +1,4 @@
-name: Deploy Azure Static Web App
+name: Terraform Azure Main
 on:
   push:
     branches:
